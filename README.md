@@ -1,8 +1,10 @@
-# projeto
-Uma API feita em Node.js
+# Projeto API de Produtos - Products API
 
 Esse projeto foi criado no curso de Desenvolvimento Web Completo 2020 da Cod3r.
-Nesse projeto foi criado uma api de produtos, onde é possível fazer os cruds: cadastrar, editar, e excluir produtos.
+Nesse projeto foi criado uma API de produtos em Node.js, onde é possível fazer os cruds: cadastrar, editar, e excluir produtos.
+
+This project was created in Cod3r's Complete Web Development 2020 course.
+In this project a product API was created in Node.js, where it is possible to make the cruds: register, edit, and delete products.
 
 ## Instalação - Installation
 
